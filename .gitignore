@@ -1,14 +1,14 @@
-# A fast, small, safe, gradually typed embeddable scripting language derived from Lua
-#
-# https://github.com/luau-lang/luau
-# https://luau.org/
+# Arquivos temporários do Roblox
+*.rbxlx.lock
+*.rbxl.lock
 
-# Code coverage
-coverage.out
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
 
-# Profiling
-profile.out
-profile.svg
-
-# Time trace
-trace.json
+# Se você usar Rojo futuramente
+.tools/
+.github/
+build/
+node_modules/
