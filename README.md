@@ -1,4 +1,4 @@
-<h1 align="left">❗Projeto: Jogo de Obstáculos❗</h1>
+<h1 align="left">❗Projeto: Obby❗</h1>
 
 ###
 
